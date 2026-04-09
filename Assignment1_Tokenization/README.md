@@ -16,4 +16,4 @@ Implement tokenization techniques and apply stemming and lemmatization using the
 **Lemmatization:** Implemented using WordNet Lemmatizer.
 
 ## Conclusion
-Tokenization, stemming, and lemmatization are essential preprocessing techniques in NLP that help normalize text for further analysis.
+Tokenization, stemming, and lemmatization are essential preprocessing techniques in NLP that help normalize text for further analysis
